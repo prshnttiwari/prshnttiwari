@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new tech.
 - 🌱 I’m currently learning c language.
 - 💞️ I’m looking to collaborate on learning new technologies.
-- 📫 How to reach me >> twitter.com/prshnttiwari <<
+- 📫 How to reach me >> twitter.com/prshnt_tiwari <<
 
 <!---
 prshnttiwari/prshnttiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
