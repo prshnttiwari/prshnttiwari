@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prshnttiwari
 - 👀 I’m interested in learning new tech.
-- 🌱 I’m currently learning c language.
 - 💞️ I’m looking to collaborate on learning new technologies.
 - 📫 How to reach me >> twitter.com/prshnt_tiwari <<
 
